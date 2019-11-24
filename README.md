@@ -2,7 +2,9 @@
 This is the simplest possible demo of Android Navigation Component.
 
 To clone the project, go to the desired directory and on terminal type:
-git clone https://github.com/sulavtimsina/NavigationDemo.git
+
+    git clone https://github.com/sulavtimsina/NavigationDemo.git
+    
 
 Open the project in Android Studio.
 
